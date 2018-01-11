@@ -1,0 +1,8 @@
+[package]
+name = "ed25519_brute_force"
+version = "0.1.0"
+authors = ["Ian Coleman"]
+
+[dependencies]
+rust_sodium = "0.2"
+time = "0.1"
