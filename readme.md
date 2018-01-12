@@ -9,5 +9,7 @@ Download from releases
 Or run from source:
 
 ```
-$ cargo run
+$ cargo run --release
 ```
+
+Using rustc 1.23.0 or greater.
