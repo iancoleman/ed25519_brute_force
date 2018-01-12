@@ -4,5 +4,8 @@ version = "0.1.0"
 authors = ["Ian Coleman"]
 
 [dependencies]
+ed25519-dalek = "0.5"
+rand = "0.3"
 rust_sodium = "0.7"
+sha3 = "0.6"
 time = "0.1"
