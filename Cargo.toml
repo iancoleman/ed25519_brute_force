@@ -4,5 +4,5 @@ version = "0.1.0"
 authors = ["Ian Coleman"]
 
 [dependencies]
-rust_sodium = "0.2"
+rust_sodium = "0.7"
 time = "0.1"
